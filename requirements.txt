@@ -13,5 +13,7 @@ pyparsing==2.4.7          # via matplotlib
 python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.1              # via pandas
 scipy==1.4.1              # via seaborn
-seaborn==0.10.1
-six==1.15.0               # via cycler, python-dateutil
+seaborn==0.10.1              # via cycler, python-dateutil
+networkx==2.4
+EoN==1.1
+bz2==
