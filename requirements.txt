@@ -16,4 +16,3 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1              # via cycler, python-dateutil
 networkx==2.4
 EoN==1.1
-bz2==
