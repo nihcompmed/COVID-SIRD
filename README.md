@@ -17,5 +17,4 @@
 
 # Interactive notebook
 Use Binder to run our code online.
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
