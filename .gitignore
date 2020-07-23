@@ -1,3 +1,4 @@
 pickles/
+__pycache__/
 *.pdf
 *.bz2
