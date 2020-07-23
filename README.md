@@ -16,5 +16,3 @@
 ####	 If you're using remote computing resources you will need to start ssh tunneling to display notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/nihcompmed/SIRD/master
