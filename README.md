@@ -14,3 +14,7 @@
     user$ singularity exec -B </path/to/SIRD/:/path/to/SIRD/> </path/to/SIRD>/sird.simg jupyter notebook SIRD_example.ipynb
 ####	 Click the resulting link in your command line and navigate to python notebook
 ####	 If you're using remote computing resources you will need to start ssh tunneling to display notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/nihcompmed/SIRD/master
