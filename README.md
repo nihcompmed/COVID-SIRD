@@ -15,4 +15,6 @@
 ####	 Click the resulting link in your command line and navigate to python notebook
 ####	 If you're using remote computing resources you will need to start ssh tunneling to display notebook
 
+# Interactive notebook
+#### Use Binder to run our code online.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
