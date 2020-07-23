@@ -1,5 +1,12 @@
+# Simulating SARS-CoV-2 Spread
+# Interactive notebook
+Use Binder to run our code online.
 
-# Generate Singularity Container to Run Code
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
+
+# Linux:
+
+## Generate Singularity Container to Run Code
 ### Command Line Tutorial
 #### In SIRD/ (where the .simg files must be stored)
 #### These commands are to be executed in command line
@@ -14,8 +21,3 @@
     user$ singularity exec -B </path/to/SIRD/:/path/to/SIRD/> </path/to/SIRD>/sird.simg jupyter notebook SIRD_example.ipynb
 ####	 Click the resulting link in your command line and navigate to python notebook
 ####	 If you're using remote computing resources you will need to start ssh tunneling to display notebook
-
-# Interactive notebook
-Use Binder to run our code online.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
