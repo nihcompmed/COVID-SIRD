@@ -24,4 +24,6 @@ USER$ singularity exec -B </path/to/SIRD/> </path/to/SIRD>/sird.simg jupyter not
 * `` -B </path/to/SIRD/>`` - Mount your user specific directory. 
 * ``</path/to/SIRD>/sird.simg`` - Image to launch.
 
+### Mac with singularity container on virtual machine
+
 If you're using remote computing resources you will need to start ssh tunneling to display notebook
