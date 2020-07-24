@@ -4,11 +4,12 @@ Use Binder to run our code online.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
 
-## If you'd like to keep a copy of this in your locl machine:
-### Linux:
+## If you'd like to keep a copy of this on your local machine:
+### Linux with Singularity container:
+Clone the repository
+    USER$ git clone https://github.com/nihcompmed/SIRD
+    USER$ cd SIRD
 
-### Generate Singularity Container to Run Code
-#### Command Line Tutorial:
 In SIRD/ (where the .simg files must be stored)
 These commands are to be executed in command line
 Use Singularity to pull and generate container which contains necessary enviornment to run the exmaple code
