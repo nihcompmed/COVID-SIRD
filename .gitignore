@@ -1,0 +1,5 @@
+pickles/
+*pycache*/
+.ipynb_checkpoints/
+*.pdf
+*.bz2

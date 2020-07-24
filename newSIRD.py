@@ -187,7 +187,6 @@ def SIRD_pool(inp):
         model['slope'],model['intercept'],model['times15'],model['dead15'],model['t0'] = slope_from_sim(sim_init,model)
         model['time_courses'] = [dict(Counter(sim_init.get_statuses(time=i).values())) for i in range(model['tmax'])]
         if not np.isnan(model['slope']):
-            #for mult in []:#[1,2,3]:
             for mult in [1,2,3]:
                 for frac_idiot,frac_del in [(1/3,1/2),(1/3,2/3),(1/4,1/2),(1/4,2/3)]:
                     if frac_idiot ==1/3: 
