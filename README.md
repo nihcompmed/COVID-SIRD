@@ -7,9 +7,10 @@ Use Binder to run our code online.
 ## If you'd like to keep a copy of this on your local machine:
 ### Linux with Singularity container:
 Clone the repository
+```bash
     USER$ git clone https://github.com/nihcompmed/SIRD
     USER$ cd SIRD
-
+```
 In SIRD/ (where the .simg files must be stored)
 
 These commands are to be executed in command line
