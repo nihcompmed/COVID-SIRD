@@ -1,5 +1,5 @@
 pickles/
-_pycache_/
+*pycache*/
 .ipynb_checkpoints/
 *.pdf
 *.bz2
