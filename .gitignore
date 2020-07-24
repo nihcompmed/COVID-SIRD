@@ -1,4 +1,5 @@
 pickles/
-__pycache__/
+_pycache_/
+.ipynb_checkpoints/
 *.pdf
 *.bz2
