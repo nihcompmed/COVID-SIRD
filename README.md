@@ -15,7 +15,7 @@ Use Singularity to pull and generate container which contains necessary enviornm
 ```bash
 USER$ sudo singularity pull docker://evancresswell/sird:#TAG#
 USER$ sudo singularity build sird.simg sird_#TAG#.sif
-
+```
 Run the example notebook through Singularity Container
 ```bash
 USER$ singularity exec -B </path/to/SIRD/> </path/to/SIRD>/sird.simg jupyter notebook SIRD_example.ipynb
