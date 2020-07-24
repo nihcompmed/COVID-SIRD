@@ -22,6 +22,6 @@ USER$ singularity exec -B </path/to/SIRD/> </path/to/SIRD>/sird.simg jupyter not
 ```
 * ``singularity exec`` - Ask singularity to execute a command in container.
 * `` -B </path/to/SIRD/>`` - Mount your user specific directory. 
-$ ``</path/to/SIRD>/sird.simg`` - Image to launch.
+* ``</path/to/SIRD>/sird.simg`` - Image to launch.
 
 If you're using remote computing resources you will need to start ssh tunneling to display notebook
