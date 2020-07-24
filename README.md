@@ -11,7 +11,9 @@ Clone the repository
     USER$ cd SIRD
 
 In SIRD/ (where the .simg files must be stored)
+
 These commands are to be executed in command line
+
 Use Singularity to pull and generate container which contains necessary enviornment to run the exmaple code
 
 ### Singularity: Build .simg file from Dockerhttps://hub.docker.com/repository/docker/evancresswell/sird
