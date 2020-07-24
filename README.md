@@ -1,16 +1,17 @@
 # Simulating SARS-CoV-2 Spread
-# Interactive notebook
+## Interactive notebook
 Use Binder to run our code online.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nihcompmed/SIRD/master)
 
-# Linux:
+## If you'd like to keep a copy of this in your locl machine:
+### Linux:
 
-## Generate Singularity Container to Run Code
-### Command Line Tutorial
-#### In SIRD/ (where the .simg files must be stored)
-#### These commands are to be executed in command line
-#### Use Singularity to pull and generate container which contains necessary enviornment to run the exmaple code
+### Generate Singularity Container to Run Code
+#### Command Line Tutorial:
+In SIRD/ (where the .simg files must be stored)
+These commands are to be executed in command line
+Use Singularity to pull and generate container which contains necessary enviornment to run the exmaple code
 
 ### Singularity: Build .simg file from Dockerhttps://hub.docker.com/repository/docker/evancresswell/sird
 #### Docker Repository: https://hub.docker.com/repository/docker/evancresswell/sird
